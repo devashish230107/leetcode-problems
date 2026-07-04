@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/devashish230107/leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0169-majority-element](https://github.com/devashish230107/leetcode-problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/devashish230107/leetcode-problems/tree/master/0189-rotate-array) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/devashish230107/leetcode-problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/devashish230107/leetcode-problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Hash Table
 |  |
