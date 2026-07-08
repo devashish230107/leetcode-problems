@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/devashish230107/leetcode-problems/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/devashish230107/leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/devashish230107/leetcode-problems/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/devashish230107/leetcode-problems/tree/master/0169-majority-element) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/devashish230107/leetcode-problems/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/devashish230107/leetcode-problems/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/devashish230107/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/devashish230107/leetcode-problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
