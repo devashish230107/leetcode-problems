@@ -1,20 +1,16 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-        int n=nums.size();
-        vector<int> arr;
-        int i = 0;
-        int j = n-1;
-        for(i;i<n-1;i++){
-            j=n-1;
-            while(j>i){
-                if(nums[i]+nums[j]==target){
-                    arr.push_back(i);
-                    arr.push_back(j);
-                }
-                j--;
+        map<int,int> hash;
+        int n = nums.size();
+        int req;
+        for(int i=0 ; i<n;i++){
+            req=target-nums[i];
+            if(hash.find(req) != hash.end()){
+                return {hash[req],i};
             }
+            hash[nums[i]] = i;
         }
-        return arr;
+        return{-1,-1};
     }
 };
