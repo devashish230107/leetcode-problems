@@ -2,16 +2,19 @@ class Solution {
 public:
     void sortColors(vector<int>& nums) {
         int n = nums.size();
-        int hasharr[3] = {0};
-        for (int i = 0; i < n; i++) {
-            hasharr[nums[i]]++;
-        }
-        int j = 0;
-        for (int i = 0; i < 3; i++) {
-            while (hasharr[i] > 0) {
-                nums[j] = i;
-                j++;
-                hasharr[i]--;
+        int low = 0;
+        int mid = 0;
+        int high = n - 1;
+        while (high >= mid) {
+            if (nums[mid] == 0) {
+                swap(nums[low], nums[mid]);
+                low++;
+                mid++;
+            } else if (nums[mid] == 1) {
+                mid++;
+            } else {
+                swap(nums[mid], nums[high]);
+                high--;
             }
         }
     }
