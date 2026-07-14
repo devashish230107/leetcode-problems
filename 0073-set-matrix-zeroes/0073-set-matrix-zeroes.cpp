@@ -3,27 +3,29 @@ public:
     void setZeroes(vector<vector<int>>& matrix) {
         int rows = matrix.size();
         int cols = matrix[0].size();
-        vector<int> zerorow;
-        vector<int> zerocol;
+        vector<int> zerorow(rows, 0);
+        vector<int> zerocol(cols, 0);
         for (int i = 0; i < rows; i++) {
             for (int j = 0; j < cols; j++) {
                 if (matrix[i][j] == 0) {
-                    zerorow.push_back(i);
-                    zerocol.push_back(j);
+                    zerorow[i] = 1;
+                    zerocol[j] = 1;
                 }
             }
         }
-        int i = 0;
-        int j = 0;
-        while (i < zerorow.size()) {
-            for (int k = 0; k < rows; k++) {
-                matrix[k][zerocol[j]] = 0;
+        for (int i = 0; i < rows; i++) {
+            if (zerorow[i] == 1) {
+                for (int j = 0; j < cols; j++) {
+                    matrix[i][j] = 0;
+                }
             }
-            for (int k = 0; k < cols; k++) {
-                matrix[zerorow[i]][k] = 0;
+        }
+        for (int i = 0; i < cols; i++) {
+            if (zerocol[i] == 1) {
+                for (int j = 0; j < rows; j++) {
+                    matrix[j][i] = 0;
+                }
             }
-            i++;
-            j++;
         }
     }
 };
