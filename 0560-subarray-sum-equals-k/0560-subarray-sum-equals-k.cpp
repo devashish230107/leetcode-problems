@@ -16,7 +16,6 @@ public:
 
             preSumMap[sum]++;
         }
-
         return count;
     }
 };
