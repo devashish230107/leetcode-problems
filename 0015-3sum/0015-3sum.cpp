@@ -12,7 +12,7 @@ public:
             j = nums.size() - 1;
             while (k < j) {
                 if (nums[i] + nums[j] + nums[k] == 0) {
-                    vector<int> sol = {nums[i], nums[j], nums[k]};
+                    vector<int> sol = {nums[i], nums[k], nums[j]};
                     ans.push_back(sol);
                     k++;
                     j--;
