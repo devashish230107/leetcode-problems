@@ -1,6 +1,6 @@
 class Solution {
 public:
-    bool willfinish(vector<int>& piles, int k, int h) {
+    bool isvalid(vector<int>& piles, int k, int h) {
         int val = 0;
         for (int i = 0; i < piles.size(); i++) {
             val += (piles[i] + k - 1) / k;
@@ -16,7 +16,7 @@ public:
         int ans;
         while (low <= high) {
             int mid = low + (high - low) / 2;
-            bool val = willfinish(piles, mid, h);
+            bool val = isvalid(piles, mid, h);
             if (val == false) {
                 low = mid + 1;
             } else {
