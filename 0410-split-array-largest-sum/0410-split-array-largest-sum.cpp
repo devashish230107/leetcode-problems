@@ -24,8 +24,9 @@ public:
                 low=mid+1;
             } else {
                 high=mid-1;
+                ans=mid;
             }
         }
-        return low;
+        return ans;
     }
 };
