@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/devashish230107/leetcode-problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/devashish230107/leetcode-problems/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/devashish230107/leetcode-problems/tree/master/0229-majority-element-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/devashish230107/leetcode-problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/devashish230107/leetcode-problems/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/devashish230107/leetcode-problems/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/devashish230107/leetcode-problems/tree/master/0485-max-consecutive-ones) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/devashish230107/leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/devashish230107/leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/devashish230107/leetcode-problems/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/devashish230107/leetcode-problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/devashish230107/leetcode-problems/tree/master/0493-reverse-pairs) |
 ## Sorting
 |  |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/devashish230107/leetcode-problems/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/devashish230107/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/devashish230107/leetcode-problems/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/devashish230107/leetcode-problems/tree/master/0240-search-a-2d-matrix-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/devashish230107/leetcode-problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/devashish230107/leetcode-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/devashish230107/leetcode-problems/tree/master/0162-find-peak-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/devashish230107/leetcode-problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/devashish230107/leetcode-problems/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/devashish230107/leetcode-problems/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/devashish230107/leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
