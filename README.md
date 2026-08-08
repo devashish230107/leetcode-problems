@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/devashish230107/leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/devashish230107/leetcode-problems/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/devashish230107/leetcode-problems/tree/master/0205-isomorphic-strings) |
 | [1021-remove-outermost-parentheses](https://github.com/devashish230107/leetcode-problems/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/devashish230107/leetcode-problems/tree/master/1903-largest-odd-number-in-string) |
 ## Array
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/devashish230107/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/devashish230107/leetcode-problems/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/devashish230107/leetcode-problems/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/devashish230107/leetcode-problems/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/devashish230107/leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/devashish230107/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/devashish230107/leetcode-problems/tree/master/0645-set-mismatch) |
