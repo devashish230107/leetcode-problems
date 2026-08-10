@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/devashish230107/leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/devashish230107/leetcode-problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/devashish230107/leetcode-problems/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/devashish230107/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/devashish230107/leetcode-problems/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/devashish230107/leetcode-problems/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/devashish230107/leetcode-problems/tree/master/1903-largest-odd-number-in-string) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/devashish230107/leetcode-problems/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/devashish230107/leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/devashish230107/leetcode-problems/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/devashish230107/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/devashish230107/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/devashish230107/leetcode-problems/tree/master/0645-set-mismatch) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/devashish230107/leetcode-problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/devashish230107/leetcode-problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/devashish230107/leetcode-problems/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/devashish230107/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/devashish230107/leetcode-problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Number Theory
 |  |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/devashish230107/leetcode-problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/devashish230107/leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/devashish230107/leetcode-problems/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/devashish230107/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/devashish230107/leetcode-problems/tree/master/0645-set-mismatch) |
 | [1552-magnetic-force-between-two-balls](https://github.com/devashish230107/leetcode-problems/tree/master/1552-magnetic-force-between-two-balls) |
 ## Bit Manipulation
@@ -243,4 +247,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/devashish230107/leetcode-problems/tree/master/0796-rotate-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/devashish230107/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/devashish230107/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
