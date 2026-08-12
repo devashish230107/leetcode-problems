@@ -21,24 +21,13 @@ public:
         } else {
             sign = 1;
         }
-        for (int i = itr; i < n; i++) {
-            if (isdigit(s[i])) {
-                ans += s[i];
-            } else {
-                break;
-            }
-        }
-        if (ans == "") {
-            return 0;
-        }
-        for (int i = 0; i < ans.size(); i++) {
-            int digit = ans[i] - '0';
+        for (int i = itr; i < n && isdigit(s[i]); i++) {
+            int digit = s[i] - '0';
+
             if (num > (INT_MAX - digit) / 10) {
-                if (sign == -1)
-                    return INT_MIN;
-                else
-                    return INT_MAX;
+                return sign == -1 ? INT_MIN : INT_MAX;
             }
+
             num = num * 10 + digit;
         }
         return num * sign;
