@@ -1,7 +1,6 @@
 class Solution {
 public:
     int myAtoi(string s) {
-        string ans = "";
         int n = s.length();
         int itr = 0;
         int sign;
