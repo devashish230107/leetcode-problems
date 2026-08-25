@@ -1,15 +1,14 @@
 class Solution {
 public:
     int missingMultiple(vector<int>& nums, int k) {
-        unordered_map<int, int> hash;
+        unordered_set<int> found;
         for (int i = 0; i < nums.size(); i++) {
-            hash[nums[i]]++;
+            found.insert(nums[i]);
         }
-        for (int i = k;; i += k) {
-            if (hash.find(i) == hash.end()) {
-                return i;
-            }
+        int ans=k;
+        while(!found.insert(ans).second){
+            ans+=k;
         }
-        return k;
+        return ans;
     }
 };
