@@ -9,7 +9,7 @@ public:
         sol.push_back(arr[i]);
         solve(arr, ans, i + 1, n, sol);
         sol.pop_back();
-        while (i + 1 < arr.size() && arr[i] == arr[i + 1]) {
+        while (i + 1 < n && arr[i] == arr[i + 1]) {
             i++;
         }
         solve(arr, ans, i + 1, n, sol);
