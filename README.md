@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/devashish230107/leetcode-problems/tree/master/0877-stone-game) |
 | [1903-largest-odd-number-in-string](https://github.com/devashish230107/leetcode-problems/tree/master/1903-largest-odd-number-in-string) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/devashish230107/leetcode-problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3870-count-commas-in-range](https://github.com/devashish230107/leetcode-problems/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/devashish230107/leetcode-problems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
