@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/devashish230107/leetcode-problems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/devashish230107/leetcode-problems/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/devashish230107/leetcode-problems/tree/master/0189-rotate-array) |
+| [0282-expression-add-operators](https://github.com/devashish230107/leetcode-problems/tree/master/0282-expression-add-operators) |
 | [0509-fibonacci-number](https://github.com/devashish230107/leetcode-problems/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/devashish230107/leetcode-problems/tree/master/0877-stone-game) |
 | [1903-largest-odd-number-in-string](https://github.com/devashish230107/leetcode-problems/tree/master/1903-largest-odd-number-in-string) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/devashish230107/leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/devashish230107/leetcode-problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/devashish230107/leetcode-problems/tree/master/0242-valid-anagram) |
+| [0282-expression-add-operators](https://github.com/devashish230107/leetcode-problems/tree/master/0282-expression-add-operators) |
 | [0451-sort-characters-by-frequency](https://github.com/devashish230107/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/devashish230107/leetcode-problems/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/devashish230107/leetcode-problems/tree/master/1021-remove-outermost-parentheses) |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/devashish230107/leetcode-problems/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/devashish230107/leetcode-problems/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/devashish230107/leetcode-problems/tree/master/0216-combination-sum-iii) |
+| [0282-expression-add-operators](https://github.com/devashish230107/leetcode-problems/tree/master/0282-expression-add-operators) |
 ## Depth-First Search
 |  |
 | ------- |
