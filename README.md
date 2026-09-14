@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/devashish230107/leetcode-problems/tree/master/0189-rotate-array) |
 | [0282-expression-add-operators](https://github.com/devashish230107/leetcode-problems/tree/master/0282-expression-add-operators) |
 | [0509-fibonacci-number](https://github.com/devashish230107/leetcode-problems/tree/master/0509-fibonacci-number) |
+| [0836-rectangle-overlap](https://github.com/devashish230107/leetcode-problems/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/devashish230107/leetcode-problems/tree/master/0877-stone-game) |
 | [1903-largest-odd-number-in-string](https://github.com/devashish230107/leetcode-problems/tree/master/1903-largest-odd-number-in-string) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/devashish230107/leetcode-problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -379,4 +380,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/devashish230107/leetcode-problems/tree/master/0037-sudoku-solver) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/devashish230107/leetcode-problems/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
