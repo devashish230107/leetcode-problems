@@ -5,7 +5,7 @@ public:
             return "";
         int l = 0, r = 0;
         int n = s.size(), m = t.size();
-        int cnt = 0, minLen = 1e7;
+        int cnt = 0, minLen = INT_MAX;
         int startInd = -1;
         map<char, int> mp;
         for (int i = 0; i < m; i++)
