@@ -12,9 +12,7 @@ public:
         for (int right = 0; right < n; right++) {
             int index = s[right] - 'A';
             frequency[index]++;
-
             maxFrequency = max(maxFrequency, frequency[index]);
-
             int currentLength = right - left + 1;
             if (currentLength - maxFrequency > k) {
                 frequency[s[left] - 'A']--;
@@ -24,7 +22,6 @@ public:
 
             maxLength = max(maxLength, currentLength);
         }
-
         return maxLength;
     }
 };
