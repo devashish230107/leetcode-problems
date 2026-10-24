@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/devashish230107/leetcode-problems/tree/master/1552-magnetic-force-between-two-balls) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/devashish230107/leetcode-problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1901-find-a-peak-element-ii](https://github.com/devashish230107/leetcode-problems/tree/master/1901-find-a-peak-element-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/devashish230107/leetcode-problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/devashish230107/leetcode-problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/devashish230107/leetcode-problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/devashish230107/leetcode-problems/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/devashish230107/leetcode-problems/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/devashish230107/leetcode-problems/tree/master/0645-set-mismatch) |
 | [1552-magnetic-force-between-two-balls](https://github.com/devashish230107/leetcode-problems/tree/master/1552-magnetic-force-between-two-balls) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/devashish230107/leetcode-problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/devashish230107/leetcode-problems/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Bit Manipulation
 |  |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/devashish230107/leetcode-problems/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/devashish230107/leetcode-problems/tree/master/1552-magnetic-force-between-two-balls) |
 | [1901-find-a-peak-element-ii](https://github.com/devashish230107/leetcode-problems/tree/master/1901-find-a-peak-element-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/devashish230107/leetcode-problems/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Binary Indexed Tree
 |  |
 | ------- |
