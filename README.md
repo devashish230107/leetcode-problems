@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/devashish230107/leetcode-problems/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/devashish230107/leetcode-problems/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/devashish230107/leetcode-problems/tree/master/0877-stone-game) |
+| [1248-count-number-of-nice-subarrays](https://github.com/devashish230107/leetcode-problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/devashish230107/leetcode-problems/tree/master/1903-largest-odd-number-in-string) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/devashish230107/leetcode-problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3870-count-commas-in-range](https://github.com/devashish230107/leetcode-problems/tree/master/3870-count-commas-in-range) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/devashish230107/leetcode-problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/devashish230107/leetcode-problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/devashish230107/leetcode-problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1248-count-number-of-nice-subarrays](https://github.com/devashish230107/leetcode-problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/devashish230107/leetcode-problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/devashish230107/leetcode-problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/devashish230107/leetcode-problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/devashish230107/leetcode-problems/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/devashish230107/leetcode-problems/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/devashish230107/leetcode-problems/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/devashish230107/leetcode-problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/devashish230107/leetcode-problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/devashish230107/leetcode-problems/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/devashish230107/leetcode-problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -281,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/devashish230107/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/devashish230107/leetcode-problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/devashish230107/leetcode-problems/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/devashish230107/leetcode-problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/devashish230107/leetcode-problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/devashish230107/leetcode-problems/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3903-smallest-stable-index-i](https://github.com/devashish230107/leetcode-problems/tree/master/3903-smallest-stable-index-i) |
@@ -482,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/devashish230107/leetcode-problems/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/devashish230107/leetcode-problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/devashish230107/leetcode-problems/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/devashish230107/leetcode-problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/devashish230107/leetcode-problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/devashish230107/leetcode-problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
