@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/devashish230107/leetcode-problems/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/devashish230107/leetcode-problems/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/devashish230107/leetcode-problems/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/devashish230107/leetcode-problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/devashish230107/leetcode-problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/devashish230107/leetcode-problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1248-count-number-of-nice-subarrays](https://github.com/devashish230107/leetcode-problems/tree/master/1248-count-number-of-nice-subarrays) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/devashish230107/leetcode-problems/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/devashish230107/leetcode-problems/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/devashish230107/leetcode-problems/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/devashish230107/leetcode-problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/devashish230107/leetcode-problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/devashish230107/leetcode-problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/devashish230107/leetcode-problems/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/devashish230107/leetcode-problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/devashish230107/leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/devashish230107/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
+| [0992-subarrays-with-k-different-integers](https://github.com/devashish230107/leetcode-problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/devashish230107/leetcode-problems/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/devashish230107/leetcode-problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Number Theory
@@ -485,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/devashish230107/leetcode-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/devashish230107/leetcode-problems/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/devashish230107/leetcode-problems/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/devashish230107/leetcode-problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/devashish230107/leetcode-problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/devashish230107/leetcode-problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/devashish230107/leetcode-problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
